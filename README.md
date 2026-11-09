@@ -1,9 +1,10 @@
+
 # Eraldo-Italo
 
 
 <!-- BANNER -->
 <div align="center">
-  <img src="banner.png" width="100%" alt="Banner do perfil"/>
+  <img width="736" height="414" alt="yk" src="https://github.com/user-attachments/assets/f2ca14a0-175a-4b71-bd05-5c979a807aa6" />
 </div>
 
 <h1 align="center">Olá, eu sou Eraldo Ítalo! 👋</h1>
