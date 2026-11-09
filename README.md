@@ -9,7 +9,7 @@
 
 <h3 align="center">
   Engenharia de Software | Back-end | Data Analytics
-</h3>![Uploading yk.jpg…]()
+</h3>
 
 
 ---
@@ -37,45 +37,3 @@
 </div>
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Projetos em desenvolvimento
-
-### 🏍️ Catálogo de Veículos
-Sistema desenvolvido com Django para gerenciamento
-de veículos, vendedores, vendas e dashboard administrativo.
-
-### 🤖 Bot de Ofertas
-Automação em Python para cadastrar, gerenciar
-e publicar ofertas em canais do Telegram.
-
-### 📊 Análise de Dados
-Projetos utilizando Python, Pandas e Matplotlib
-para análise e visualização de indicadores.
-
----
-
-## 🌐 Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SEU_USUARIO)
-
-</div>
-
----
-
-<div align="center">
-  <i>Transformando ideias em soluções através da tecnologia.</i>
-</div>
